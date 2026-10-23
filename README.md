@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Squade_3
 
 Beginner Java bug-hunt repository for the PRison Break overnight hackathon.
@@ -8,3 +9,6 @@ Beginner Java bug-hunt repository for the PRison Break overnight hackathon.
 - Very Hard: issues #57–#64 (8 issues)
 
 The Hard and Very Hard challenges are grouped into six scenarios with four related issues per scenario. Each issue includes expected output without revealing the fix.
+=======
+# Squade_3
+>>>>>>> 7663fe89625fcb41f04f32cf6f332a54aa91cde9
